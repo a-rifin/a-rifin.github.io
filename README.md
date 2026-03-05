@@ -1,1 +1,11 @@
-# a-rifin.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  </head>
+<body>
+  <h1>Hello, I'm Adam!</h1>
+  <p>This is my first web page.</p>
+  <p>I'm learning web design on my homelab.</p>
+</body>
+</html>
